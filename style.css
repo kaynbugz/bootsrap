@@ -1,0 +1,18 @@
+*{
+   margin: 15px;
+   text-align: center;
+   margin-top: 55px;
+   background: gray;
+}
+
+.icons{
+    font-size: 50px;
+    color: black;
+}
+
+.icons1{
+    font-size: 50px;
+    color: red;
+    margin-bottom: 30px;
+    
+}
